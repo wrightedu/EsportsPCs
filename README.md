@@ -43,9 +43,9 @@ Other Apps:
 
 __NOTE:__ Valorant and Call of Duty both use kernel-level anticheats. They _cannot_ be installed on the same systems. Row C (closest to windows) should have CoD, the rest Valorant.
 
-### Notable Configs
+## Notable Configs
 
-#### Discord
+### Discord
 
 __App Settings/Voice & Video:__
 - Input Device: `Microphone (NVIDIA Broadcast)`
@@ -63,11 +63,11 @@ __App Settings/Windows Settings:__
 __Activity Settings/Game Overlay:__
 - Enable in-game overlay: Off
 
-#### Google Chrome
+### Google Chrome
 
 Make default browser. Ensure WSU Esports gmail is logged out and not available to sign in (go to log-in page and remove account)
 
-#### Logitech G HUB
+### Logitech G HUB
 
 Click the mouse in the middle to edit `DESKTOP: Default` profile. Make the following changes:
 - Set sensitivity options to 400, 800, 1000, 1500
@@ -80,16 +80,16 @@ Back out to the main menu, then click the settings gear in the top right. Click 
 - Enable `ON-BOARD MEMORY MODE` and set `SLOT 1` to `DESKTOP DEFAULT`, and select slot 1.
 - Enable DPI Lighting Always On and enable Device Startup Effect
 
-#### GeForce Experience
+### GeForce Experience
 
 Update to the latest Game-Ready driver. Will need to sign in with club Google account. Make sure to log out of browser afterwards and remove esports gmail as a sign-in option.
 
-#### NVIDIA Broadcast
+### NVIDIA Broadcast
 
 Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
 - Effects: `Noise Removal`, max strength
 
-#### Windows Settings
+### Windows Settings
 
 __System/Display/Advanced display settings:__
 - Refresh rate: 144Hz (or whatever's closest)
