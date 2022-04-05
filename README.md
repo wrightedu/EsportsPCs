@@ -89,6 +89,24 @@ Update to the latest Game-Ready driver. Will need to sign in with club Google ac
 Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
 - Effects: `Noise Removal`, max strength
 
+### Steam
+
+Go to `Steam` in top left, click `Settings`:
+
+__Account:__
+- Check `Don't save account credentials on this computer`
+
+__Interface:__
+- `Select which Steam window appears when the program starts...`: `Library`
+- Uncheck `Notify me about additions or changes to my games...`
+
+__Downloads__:
+- Check `Display download rates in bits per second`
+- Click `STEAM LIBRARY FOLDERS`, then
+  - Add library folder on `D:` and `E:` (should auto-create `\SteamLibrary`)
+  - Make `E:` default
+
+
 ### Windows Settings
 
 __System/Display/Advanced display settings:__
@@ -102,3 +120,17 @@ Click `Manage sound devices`, under output disable `ZOWIE XL LCD (NVIDIA High De
 
 __System/Ease of Access/Interaction/Keyboard:__
 - Turn literally everything off
+
+__Taskbar:__
+- Right click taskbar and turn of `Show Cortana button` and `Show Task View button`
+- Pins, from left to right:
+  - File Explorer
+  - Google Chrome
+  - Firefox
+  - Discord
+  - Steam
+  - Epic Games
+  - Battle.net
+  - Ubisoft Connect
+  - Spotify
+  - ASTRO Command Center
