@@ -134,3 +134,6 @@ __Taskbar:__
   - Ubisoft Connect
   - Spotify
   - ASTRO Command Center
+
+__Start Menu:__
+- Unpin everything
