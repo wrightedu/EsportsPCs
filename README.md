@@ -48,20 +48,20 @@ __NOTE:__ Valorant and Call of Duty both use kernel-level anticheats. They _cann
 #### Discord
 
 __App Settings/Voice & Video:__
-Input Device: `Microphone (NVIDIA Broadcast)`
-Output Device: `Headset Earphone (HyperX Virtual Surround Sound)`
+- Input Device: `Microphone (NVIDIA Broadcast)`
+- Output Device: `Headset Earphone (HyperX Virtual Surround Sound)`
 
 __App Settings/Notifications:__
-Enable Taskbar Flashing: Off
-All sounds off except `Incoming Ring`
+- Enable Taskbar Flashing: Off
+- All sounds off except `Incoming Ring`
 
 __App Settings/Windows Settings:__
-Open Discord: On
-Start Minimized: On
-Minimize to Tray: Off
+- Open Discord: On
+- Start Minimized: On
+- Minimize to Tray: Off
 
 __Activity Settings/Game Overlay:__
-Enable in-game overlay: Off
+- Enable in-game overlay: Off
 
 #### Google Chrome
 
@@ -75,9 +75,10 @@ Click the mouse in the middle to edit `DESKTOP: Default` profile. Make the follo
 - Bind `DPI Down` (G7) to `F14`
 - Bind `Onboard Profile Cycle` (G9) to `DPI Cycle`
 - Set lighting on primary and logo to `#00FF3F`, fixed
+
 Back out to the main menu, then click the settings gear in the top right. Click `MY GEAR`, then the mouse in the bottom middle.
-Enable `ON-BOARD MEMORY MODE` and set `SLOT 1` to `DESKTOP DEFAULT`, and select slot 1.
-Enable DPI Lighting Always On and enable Device Startup Effect
+- Enable `ON-BOARD MEMORY MODE` and set `SLOT 1` to `DESKTOP DEFAULT`, and select slot 1.
+- Enable DPI Lighting Always On and enable Device Startup Effect
 
 #### GeForce Experience
 
@@ -86,18 +87,18 @@ Update to the latest Game-Ready driver. Will need to sign in with club Google ac
 #### NVIDIA Broadcast
 
 Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
-Effects: `Noise Removal`, max strength
+- Effects: `Noise Removal`, max strength
 
 #### Windows Settings
 
 __System/Display/Advanced display settings:__
-Refresh rate: 144Hz (or whatever's closest)
+- Refresh rate: 144Hz (or whatever's closest)
 
 __System/Sound:__
-Output device: `Headset Earphone (HyperX Virtual Surround Sound)`
-Input device: `Microphone (NVIDIA Broadcast)`
+- Output device: `Headset Earphone (HyperX Virtual Surround Sound)`
+- Input device: `Microphone (NVIDIA Broadcast)`
 
 Click `Manage sound devices`, under output disable `ZOWIE XL LCD (NVIDIA High Definition Audio)` and `Speakers (NVIDIA Broadcast)`
 
 __System/Ease of Access/Interaction/Keyboard:__
-Turn literally everything off
+- Turn literally everything off
