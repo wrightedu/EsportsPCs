@@ -46,6 +46,12 @@ __NOTE:__ Valorant and Call of Duty both use kernel-level anticheats. They _cann
 
 ## Notable Configs
 
+### Battle.net
+
+__Settings/Downloads:__
+- Default Install Directory: `D:\BattleNet\`
+- Turn off automatically create desktop icons
+
 ### Discord
 
 __App Settings/Voice & Video:__
