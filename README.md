@@ -145,6 +145,7 @@ __Taskbar:__
   - Epic Games
   - Battle.net
   - Ubisoft Connect
+  - Riot Games
   - Spotify
   - ASTRO Command Center
 
