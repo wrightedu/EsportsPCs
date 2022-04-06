@@ -63,6 +63,12 @@ __App Settings/Windows Settings:__
 __Activity Settings/Game Overlay:__
 - Enable in-game overlay: Off
 
+### Epic Games
+
+Log in, do the following, then log out:
+- Click profile in the top right, then settings
+  - Uncheck everything except enable cloud saves
+
 ### Google Chrome
 
 Make default browser. Ensure WSU Esports gmail is logged out and not available to sign in (go to log-in page and remove account)
