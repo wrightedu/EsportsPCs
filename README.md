@@ -8,6 +8,7 @@ Partition scheme:
   - D: Rest (~350GB) NTFS `Comp Games ONLY`, with following directories:
     - `SteamLibrary`
     - `BattleNet`
+    - `RiotGames`
 - HDD:
   - E: 1TB `Casual Games and Clips`, with following directories:
     - `Epic_HDD`
@@ -96,6 +97,10 @@ Hit ALT+Z, click settings, HUD Layout, turn Status indicator off
 
 Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
 - Effects: `Noise Removal`, max strength
+
+### Riot Launcher
+
+When installing Valorant/LoL, install on D:
 
 ### Steam
 
