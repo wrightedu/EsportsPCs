@@ -84,6 +84,8 @@ Back out to the main menu, then click the settings gear in the top right. Click 
 
 Update to the latest Game-Ready driver. Will need to sign in with club Google account. Make sure to log out of browser afterwards and remove esports gmail as a sign-in option.
 
+Hit ALT+Z, click settings, HUD Layout, turn Status indicator off
+
 ### NVIDIA Broadcast
 
 Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
