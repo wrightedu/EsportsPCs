@@ -99,6 +99,8 @@ Update to the latest Game-Ready driver. Will need to sign in with club Google ac
 
 Hit ALT+Z, click settings, HUD Layout, turn Status indicator off
 
+Make sure to turn Instant Replay on before closing out (by hitting ALT+Z again)
+
 ### NVIDIA Broadcast
 
 Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
