@@ -9,6 +9,7 @@ Partition scheme:
     - `SteamLibrary`
     - `BattleNet`
     - `RiotGames`
+    - `rocketleague`
 - HDD:
   - E: 1TB `Casual Games and Clips`, with following directories:
     - `Epic_HDD`
@@ -108,7 +109,7 @@ Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
 
 ### Riot Launcher
 
-When installing Valorant/LoL, install on D:
+When installing Valorant/LoL, install on `D:\Riot Games`
 
 ### Steam
 
