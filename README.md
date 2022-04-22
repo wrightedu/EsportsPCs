@@ -102,6 +102,11 @@ Hit ALT+Z, click settings, HUD Layout, turn Status indicator off
 
 Make sure to turn Instant Replay on before closing out (by hitting ALT+Z again)
 
+### MOSS
+
+Download x64 from [nohope.eu](https://nohope.eu/). Install [7-zip](https://www.7-zip.org/download.html). Extract with 7-zip, password `Moss`. Move `MOSS.exe` to `D:\`. Run and set to Rainbow Six in settings. Close out. Open command prompt as admin and run `mklink /d "C:\Users\WSU Esports\Desktop\MOSS" D:\MOSS`
+
+
 ### NVIDIA Broadcast
 
 Microphone Source: `Headset Microphone (HyperX Virtual Surround Sound)`
@@ -142,6 +147,24 @@ Click `Manage sound devices`, under output disable `ZOWIE XL LCD (NVIDIA High De
 
 __System/Ease of Access/Interaction/Keyboard:__
 - Turn literally everything off
+
+__Personalization/Background:__
+- Set our wallpaper (available on Google Drive)
+
+__Personalization/Colors:__
+- `Choose your color`: `Dark`
+- Transparency effects: `On`
+- Custom accent color: `#047A40`
+- Check `Start, taskbar, and action center`
+- Check `Title bars and window borders`
+
+__Personalization/Lock screen:__
+- Set our wallpaper (available on Google Drive)
+
+__Accounts/Sign-in options:__
+- Password: set to empty string
+- Require sign-in: `never`
+
 
 __Taskbar:__
 - Right click taskbar and turn of `Show Cortana button` and `Show Task View button`
