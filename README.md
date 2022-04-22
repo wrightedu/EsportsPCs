@@ -100,7 +100,9 @@ Back out to the main menu, then click the settings gear in the top right. Click 
 
 Update to the latest Game-Ready driver. Will need to sign in with club Google account. Make sure to log out of browser afterwards and remove esports gmail as a sign-in option.
 
-Hit ALT+Z, click settings, HUD Layout, turn Status indicator off
+Hit ALT+Z, click settings, HUD Layout, turn Status indicator off. Same for performance.
+
+Under recordings, set videos directory to `E:\Recordings`
 
 Make sure to turn Instant Replay on before closing out (by hitting ALT+Z again)
 
