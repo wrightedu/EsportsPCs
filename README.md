@@ -94,6 +94,7 @@ Click the mouse in the middle to edit `DESKTOP: Default` profile. Make the follo
 Back out to the main menu, then click the settings gear in the top right. Click `MY GEAR`, then the mouse in the bottom middle.
 - Enable `ON-BOARD MEMORY MODE` and set `SLOT 1` to `DESKTOP DEFAULT`, and select slot 1.
 - Enable DPI Lighting Always On and enable Device Startup Effect
+- Go back a level, then under `APP SETTINGS`, uncheck everything
 
 ### GeForce Experience
 
