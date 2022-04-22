@@ -10,6 +10,7 @@ Partition scheme:
     - `BattleNet`
     - `RiotGames`
     - `rocketleague`
+    - `MOSS`
 - HDD:
   - E: 1TB `Casual Games and Clips`, with following directories:
     - `Epic_HDD`
@@ -108,7 +109,7 @@ Make sure to turn Instant Replay on before closing out (by hitting ALT+Z again)
 
 ### MOSS
 
-Download x64 from [nohope.eu](https://nohope.eu/). Install [7-zip](https://www.7-zip.org/download.html). Extract with 7-zip, password `Moss`. Move `MOSS.exe` to `D:\`. Run and set to Rainbow Six in settings. Close out. Open command prompt as admin and run `mklink /d "C:\Users\WSU Esports\Desktop\MOSS" D:\MOSS`
+Download x64 from [nohope.eu](https://nohope.eu/). Install [7-zip](https://www.7-zip.org/download.html). Extract with 7-zip, password `Moss`. Move `MOSS.exe` to `D:\`. Run and set to Rainbow Six in parameters. Close out. Open command prompt as admin and run `mklink /d "C:\Users\WSU Esports\Desktop\MOSS" D:\MOSS`
 
 
 ### NVIDIA Broadcast
@@ -129,7 +130,7 @@ __Account:__
 
 __Interface:__
 - `Select which Steam window appears when the program starts...`: `Library`
-- Uncheck `Notify me about additions or changes to my games...`
+- Uncheck `Notify me about additions or changes to my games...` and `Run steam when my computer starts`
 
 __Downloads__:
 - Check `Display download rates in bits per second`
