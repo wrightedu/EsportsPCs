@@ -150,6 +150,9 @@ __System/Sound:__
 
 Click `Manage sound devices`, under output disable `ZOWIE XL LCD (NVIDIA High Definition Audio)` and `Speakers (NVIDIA Broadcast)`
 
+__System/Powwer & sleep:__
+- Click additional power settings, and in the window that pops up, go to `Choose what the power buttons do` then `Change settings that are currently unavailable` and uncheck `Turn on fast startup (recommended)`
+
 __Ease of Access/Interaction/Keyboard:__
 - Turn literally everything off
 
