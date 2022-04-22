@@ -145,7 +145,7 @@ __System/Sound:__
 
 Click `Manage sound devices`, under output disable `ZOWIE XL LCD (NVIDIA High Definition Audio)` and `Speakers (NVIDIA Broadcast)`
 
-__System/Ease of Access/Interaction/Keyboard:__
+__Ease of Access/Interaction/Keyboard:__
 - Turn literally everything off
 
 __Personalization/Background:__
