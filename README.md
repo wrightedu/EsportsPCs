@@ -50,6 +50,7 @@ __NOTE:__ Valorant and Call of Duty both use kernel-level anticheats. They _cann
 ### Battle.net
 
 __Settings/Downloads:__
+- Don't `Remember login emails & phone numbers`, clear saved login info
 - Default Install Directory: `D:\BattleNet\`
 - Turn off automatically create desktop icons
 
