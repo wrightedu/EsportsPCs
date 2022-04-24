@@ -19,6 +19,8 @@ Partition scheme:
 
 ## Apps
 
+Note, do not install all of these games before taking the image. Only Call of Duty and Valorant are required because of kernel-level anticheat. You may need to ask a club member to install them for you, as Call of Duty costs money. If you own them, League of Legends and Rocket League are small enough to be on the image.
+
 Comp Games (Install to D\:, directory respective to launcher):
 - Steam
   - CS:GO
