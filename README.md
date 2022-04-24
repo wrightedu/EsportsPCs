@@ -221,6 +221,6 @@ __Start Menu:__
   - Reletter either or both D: and E:
   - Rename E:
   - Recreate Steam libraries
-  - Reset GeForce Experience recording directory
+  - Reset GeForce Experience recording directory (Remember to start instant replay afterwards)
 6. Reboot
 7. Install deepfreeze
