@@ -205,3 +205,4 @@ __Start Menu:__
 - Delete everything from Downloads
 - Empty the recycle bin
 - Launch `User Account Control Settings` and drag the slider to the bottom
+- Copy the deepfreeze installer to Music (don't install until after deploying the image)
