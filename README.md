@@ -197,3 +197,5 @@ __Start Menu:__
 - When everything above is done, go to Task Manager > Startup and disable everything except for Discord
 - Remove all desktop icons except for the MOSS folder and Recycle Bin
 - Set Chrome to the default browser
+- Delete everything from Downloads
+- Empty the recycle bin
