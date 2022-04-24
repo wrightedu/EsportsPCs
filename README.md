@@ -206,3 +206,15 @@ __Start Menu:__
 - Empty the recycle bin
 - Launch `User Account Control Settings` and drag the slider to the bottom
 - Copy the deepfreeze installer to Music (don't install until after deploying the image)
+
+# POST-DEPLOYMENT
+
+1. Set refresh rate back to 144Hz
+2. Check for windows updates (hopefully catch drivers)
+3. Launch G hub
+  a. Click mouse in middle
+  b. Click slot 1
+  c. Set desktop default to slot 1
+  d. Turn DPI lighting always on
+4. Reboot
+5. Install deepfreeze
