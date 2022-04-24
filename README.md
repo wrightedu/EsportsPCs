@@ -98,6 +98,7 @@ Back out to the main menu, then click the settings gear in the top right. Click 
 - Enable `ON-BOARD MEMORY MODE` and set `SLOT 1` to `DESKTOP DEFAULT`, and select slot 1.
 - Enable DPI Lighting Always On and enable Device Startup Effect
 - Go back a level, then under `APP SETTINGS`, uncheck everything
+- Uncheck `ENABLE AUTOMATIC UPDATES` in the top right
 
 ### GeForce Experience
 
