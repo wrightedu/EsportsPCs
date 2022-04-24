@@ -195,3 +195,4 @@ __Start Menu:__
 ## Other Configuration
 
 - When everything above is done, go to Task Manager > Startup and disable everything except for Discord
+- Remove all desktop icons except for the MOSS folder and Recycle Bin
