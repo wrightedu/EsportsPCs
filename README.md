@@ -191,3 +191,7 @@ __Taskbar:__
 
 __Start Menu:__
 - Unpin everything
+
+## Other Configuration
+
+- When everything above is done, go to Task Manager > Startup and disable everything except for Discord
