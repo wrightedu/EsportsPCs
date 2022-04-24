@@ -157,7 +157,7 @@ __Ease of Access/Interaction/Keyboard:__
 - Turn literally everything off
 
 __Personalization/Background:__
-- Set our wallpaper (available on Google Drive)
+- Set our wallpaper (available on Google Drive or another system)
 
 __Personalization/Colors:__
 - `Choose your color`: `Dark`
