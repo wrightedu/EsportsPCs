@@ -8,7 +8,7 @@ Partition scheme:
   - D: Rest (~350GB) NTFS `Comp Games ONLY`, with following directories:
     - `SteamLibrary`
     - `BattleNet`
-    - `RiotGames`
+    - `Riot Games`
     - `rocketleague`
     - `MOSS`
 - HDD:
