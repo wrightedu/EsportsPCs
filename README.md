@@ -204,3 +204,4 @@ __Start Menu:__
 - Set Chrome to the default browser
 - Delete everything from Downloads
 - Empty the recycle bin
+- Launch `User Account Control Settings` and drag the slider to the bottom
