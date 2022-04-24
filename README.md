@@ -211,7 +211,7 @@ __Start Menu:__
 
 1. Set refresh rate back to 144Hz
 2. Check for windows updates (hopefully catch drivers)
-3. Launch G hub
+3. Launch G hub and do the following:
   -  Click mouse in middle
   -  Click slot 1
   - Set desktop default to slot 1
