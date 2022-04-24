@@ -199,7 +199,7 @@ __Start Menu:__
 
 - Log out of everything
 - Clear all browsing data on all browsers
-- When everything above is done, go to Task Manager > Startup and disable everything except for Discord
+- When everything above is done, go to Task Manager > Startup and disable everything except for Discord and Vanguard
 - Remove all desktop icons except for the MOSS folder and Recycle Bin
 - Set Chrome to the default browser
 - Delete everything from Downloads
