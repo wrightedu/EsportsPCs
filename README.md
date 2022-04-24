@@ -216,5 +216,9 @@ __Start Menu:__
   -  Click slot 1
   - Set desktop default to slot 1
   - Turn DPI lighting always on
-4. Reboot
-5. Install deepfreeze
+4. Make sure D: and E: are configured properly. Use `Create and format hard disk partitions`. You may need to do any of the following:
+  - Extend D:
+  - Reletter either or both D: and E:
+  - Rename E:
+6. Reboot
+7. Install deepfreeze
